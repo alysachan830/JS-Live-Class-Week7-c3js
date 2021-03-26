@@ -55,6 +55,7 @@ function updateChart() {
     },
     donut: {
       title: '套票地區比重',
+      width: 20,
     },
   });
 }
